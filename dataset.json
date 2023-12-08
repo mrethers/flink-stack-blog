@@ -1,0 +1,6 @@
+{"timestamp": "2023-11-10 14:30:34.123", "user_id": "jcrew", "event_type": "StartEvent", "bci": 0}
+{"timestamp": "2023-11-10 14:31:24.256", "user_id": "jcrew", "event_type": null, "bci": 10}
+{"timestamp": "2023-11-10 14:31:36.885", "user_id": "jcrew", "event_type": null, "bci": 24}
+{"timestamp": "2023-11-10 14:32:38.653", "user_id": "jcrew", "event_type": "EndEvent", "bci": 0}
+{"timestamp": "2023-11-10 15:31:36.885", "user_id": "ru4real", "event_type": null, "bci": 24}
+{"timestamp": "2023-11-10 15:43:36.885", "user_id": "ru4real", "event_type": null, "bci": 32}

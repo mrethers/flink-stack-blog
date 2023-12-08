@@ -1,0 +1,13 @@
+PUT metrics
+{
+  "mappings": {
+      "properties": {
+          "user_id": {
+              "type": "keyword"
+          },
+          "avg_bci": {
+              "type": "integer"
+          }
+      }
+  }
+}
